@@ -1,0 +1,5 @@
+1,Apple,9.50
+2,Banana,7.30
+3,Orange,6.80
+4,Milk,9.90
+5,Bread,18.00
